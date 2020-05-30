@@ -32,9 +32,8 @@ pipeline {
                                                                      steps { 
                                                                              echo "running Integration testing...."
                                                                            }
-                                             }
-                                         }
-                  }
-            } 
-                }
-}
+                                                  }
+                                          }
+                         }
+            }
+}  

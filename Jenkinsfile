@@ -27,6 +27,7 @@ pipeline {
                                                                     steps {
                                                                             echo "Running unit test...."
                                                                      }
+                                                }       
                                                  stage('Integration test') {
                                                                      steps { 
                                                                              echo "running Integration testing...."
